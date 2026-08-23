@@ -1,0 +1,9 @@
+KNN Classification Results
+==========================
+
+k = 3 : Accuracy = 0.9333 (93.33%)
+k = 5 : Accuracy = 0.9333 (93.33%)
+k = 7 : Accuracy = 0.9667 (96.67%)
+
+Best k = 7
+Best Accuracy = 0.9667 (96.67%)
