@@ -1,3 +1,6 @@
+## Structure
+
+```text
 LAB-06 Neural Network/
 │
 ├── classification/
@@ -27,3 +30,4 @@ LAB-06 Neural Network/
 │       └── epoch_comparison.csv
 │
 └── requirements.txt
+```
