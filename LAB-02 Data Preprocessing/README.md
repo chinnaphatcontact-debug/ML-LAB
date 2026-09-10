@@ -10,6 +10,7 @@ ID : 116710462023-8
 
 ## 📂 Project Structure
 
+```text
 DataPreprocessing-Lab
 │
 ├── data/
@@ -20,6 +21,7 @@ DataPreprocessing-Lab
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 - dataset refer : https://www.kaggle.com/competitions/titanic/data
 
