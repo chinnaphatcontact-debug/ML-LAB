@@ -1,5 +1,7 @@
 # ML-LAB
-ไม่มีอะไรให้อ่านหรอกนะ ไว้คิดออกผมจะมาเขียนละกัน
 
+[ งานสัปดาห์แรก ]
+<img width="500" height="500" alt="easy-peasy_B8iNnap9Sv" src="https://github.com/user-attachments/assets/25119d9b-468a-4209-927e-bc406ed7c935" />
 
-<img width="500" height="500" alt="easy-peasy_yJu81az64k" src="https://github.com/user-attachments/assets/853a1d9f-5d02-44b1-9764-b9ca610c7a1d" />
+[ งานสัปดาห์ล่าสุด ]
+<img width="500" height="500" alt="easy-peasy_pyPnKkJ5js" src="https://github.com/user-attachments/assets/99dabed3-05fc-47c4-9317-53424cfdd1e3" />
