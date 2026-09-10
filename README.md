@@ -1,3 +1,4 @@
+```markdown
 # ML-LAB
 
 <table>
@@ -16,3 +17,15 @@
     </td>
   </tr>
 </table>
+
+---
+
+## Contents
+
+| Lab | Topic |
+|:---:|---|
+| **LAB-02** | Data Preprocessing |
+| **LAB-03** | Regression & Classification |
+| **LAB-04** | K-Nearest Neighbors |
+| **LAB-05** | Support Vector Machine |
+| **LAB-06** | Neural Network |
