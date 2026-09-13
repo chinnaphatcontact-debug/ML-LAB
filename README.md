@@ -1,10 +1,12 @@
 # ML-LAB
 
-## Student
+# Student
 
 Name : Chinnaphat Phatcharopas
 Class : CPE-2
 ID : 116710462023-8
+
+---
 
 <table>
   <tr>
@@ -25,7 +27,7 @@ ID : 116710462023-8
 
 ---
 
-## Contents
+## 📂Contents
 
 | Lab | Topic |
 |:---:|---|
