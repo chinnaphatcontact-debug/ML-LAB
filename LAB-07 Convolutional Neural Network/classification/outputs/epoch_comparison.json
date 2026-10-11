@@ -1,0 +1,30 @@
+{
+    "5": {
+        "epochs": 5,
+        "best_val_accuracy": 0.7746666669845581,
+        "best_epoch": 5,
+        "test_accuracy": 0.765333354473114,
+        "test_loss": 0.8740546703338623
+    },
+    "10": {
+        "epochs": 10,
+        "best_val_accuracy": 0.8333333134651184,
+        "best_epoch": 10,
+        "test_accuracy": 0.8066666722297668,
+        "test_loss": 0.9576621651649475
+    },
+    "15": {
+        "epochs": 15,
+        "best_val_accuracy": 0.8413333296775818,
+        "best_epoch": 11,
+        "test_accuracy": 0.8253333568572998,
+        "test_loss": 0.9381359219551086
+    },
+    "20": {
+        "epochs": 20,
+        "best_val_accuracy": 0.8399999737739563,
+        "best_epoch": 13,
+        "test_accuracy": 0.8080000281333923,
+        "test_loss": 1.3599034547805786
+    }
+}

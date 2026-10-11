@@ -1,0 +1,29 @@
+{
+    "CNN_1_Simple": {
+        "test_accuracy": 0.8013333082199097,
+        "test_loss": 0.9096412062644958,
+        "best_val_accuracy": 0.8066666722297668,
+        "best_val_epoch": 9,
+        "best_val_loss": 0.7240166664123535,
+        "best_loss_epoch": 6,
+        "total_params": 8389893
+    },
+    "CNN_2_Medium": {
+        "test_accuracy": 0.8026666641235352,
+        "test_loss": 1.0896248817443848,
+        "best_val_accuracy": 0.809333324432373,
+        "best_val_epoch": 8,
+        "best_val_loss": 0.820229172706604,
+        "best_loss_epoch": 3,
+        "total_params": 4214085
+    },
+    "CNN_3_Deep": {
+        "test_accuracy": 0.8013333082199097,
+        "test_loss": 1.0455411672592163,
+        "best_val_accuracy": 0.8013333082199097,
+        "best_val_epoch": 10,
+        "best_val_loss": 0.8384762406349182,
+        "best_loss_epoch": 8,
+        "total_params": 4288325
+    }
+}
