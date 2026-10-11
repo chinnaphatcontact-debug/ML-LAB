@@ -36,3 +36,4 @@ ID : 116710462023-8
 | **LAB-04** | K-Nearest Neighbors |
 | **LAB-05** | Support Vector Machine |
 | **LAB-06** | Neural Network |
+| **LAB-07** | Convolutional Neural Network |
